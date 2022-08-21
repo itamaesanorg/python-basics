@@ -8,4 +8,4 @@ print("Hello, and welcome to the ITAMEASAN Cofe shop!!!!!!")
 
 name = input("¿Waht is your name? ")
 
-print(name)
+print("Hi " + name)
