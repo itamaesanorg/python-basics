@@ -1,4 +1,7 @@
-
-
 name = "ITAMAEASAN"
 
+print(name)
+
+name = "Iron Man"
+
+print(name)
