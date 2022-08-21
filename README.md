@@ -1,7 +1,7 @@
 
-[#python-basics](Python basics)
-[Installation](Installation)
-[#Network-Chuck-tutorials-to-support-my-files-thanks-Chuck](Network Chuck tutorials to support my files thanks Chuck!)
+[python-basics](#python-basics)
+[Installation](#Installation)
+[Network Chuck tutorials to support my files thanks Chuck](#Network-Chuck-tutorials-to-support-my-files-thanks-Chuck)
 
 # Python basics
 Learn python basics with ITAMAESAN
@@ -19,5 +19,5 @@ It is used also for statistical analysis and data analysis or machine learning.
 To install Python on your computer you need to install the Python Software Foundation.
 Download the installer from [here](https://www.python.org/downloads/).
 
-## Network Chuck tutorials to support my files thanks Chuck!
+## Network Chuck tutorials to support my files thanks Chuck
 And see how Network Chuck on his tutorial about python uses, in this video here is the link: [Here](https://www.youtube.com/watch?v=mRMmlo_Uqcs).
