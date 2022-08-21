@@ -1,7 +1,7 @@
 
-[python-basics](#python-basics)
-[Installation](#Installation)
-[Network Chuck tutorials to support my files thanks Chuck](#Network-Chuck-tutorials-to-support-my-files-thanks-Chuck)
+- [python-basics](#python-basics)
+- [Installation](#Installation)
+- [Network Chuck tutorials to support my files thanks Chuck](#Network-Chuck-tutorials-to-support-my-files-thanks-Chuck)
 
 # Python basics
 Learn python basics with ITAMAESAN
