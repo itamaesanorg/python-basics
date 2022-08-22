@@ -3,13 +3,13 @@ print("Hello, welcome to ITAMAESAN Coffee!!!!!!!!!")
 
 name = input("What is your name?\n")
 
-if name == "Ben":
+if name == "Ben" or name == "Patricia":
     evil_status = input("Are you evil?\n")
     if evil_status == "Yes":
         print("You're not welcome here Ben! Get out of here!")
         exit()
     else:
-        print("Oh! You are one of those good Bens! Come in! \n\n\n")
+        print("Oh! You are one of those good" + name + "\n Come in! \n\n\n")
 else:
     print("Hello " + name + ", welcome to the coffee shop. \n\n\n")
     
