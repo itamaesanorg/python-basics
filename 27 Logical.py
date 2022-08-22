@@ -10,6 +10,9 @@ if name == "Ben" or name == "Patricia":
         exit()
     else:
         print("Oh! You are one of those good " + name + "\n Come in! \n\n\n")
+elif name == "Loki":
+    print("You are not welcome here " + name + "! Get out of here!")
+    exit()
 else:
     print("Hello " + name + ", welcome to the coffee shop. \n\n\n")
     
