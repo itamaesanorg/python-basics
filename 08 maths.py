@@ -2,4 +2,7 @@
 
 name = "Mike"
 
-7
+age = 31
+
+print(name)
+print(age)
