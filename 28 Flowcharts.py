@@ -1,25 +1,21 @@
+# Instruction for this caotic amazing journey:
+
 
 print("Hello, welcome to ITAMAESAN Coffee!!!!!!!!!")
 
 name = input("What is your name?\n")
 
-if name == "Ben" or name == "Patricia":
+if name == "Ben" or name == "Patricia" or name == "Loki":
     evil_status = input("Are you evil?\n")
     if evil_status == "yes":
         print("You're not welcome here " + name + " Get out of here!")
         exit()
     else:
-        print("Oh! You are one of those good " + name + "\n Come in! \n\n\n")
-elif name == "Loki":
-    print("You are not welcome here " + name + "! Get out of here!")
-    exit()
+        print("How many good things you did today?" + name + "?")
+        ans = input("")
+        if ans > "4":
+            print("Okay, come in!")
+        else:
+            print("You are not welcome here " + name + "! Get out of here!")
 else:
     print("Hello " + name + ", welcome to the coffee shop. \n\n\n")
-    
-beard_length = int(input("How long is your beard?\n"))
-
-if beard_length >= 1:
-    print("*oh, hello good, nice beard. You may go to the front of the line.")
-else:
-    print("*oh, hello good, nice beard. You may go to the back of the line.")
-
