@@ -9,3 +9,5 @@ camp_site = ["Crystal Lake", 404, 89.3, True]
 supplies.append("toilet paper")
 
 print(supplies)
+
+# By append we add an item to the end of the list.
