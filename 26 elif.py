@@ -22,7 +22,7 @@ elif order == "Latte":
 elif order == "Capuccino":
     price = 10
 else:
-    price = 8
+    print("Sorry, we don't serve that here.")
 
 
 
