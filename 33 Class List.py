@@ -7,7 +7,10 @@
 camping_stuff = "towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "iPhone", "homekeys", "wallet", "ehternet cable", "gaming laptop", "camera", "gameboy-color", "batteries", "water battle", "time capsule", "marshmallows", "beer", "wine", "snacks", "burguers"
 print(camping_stuff)
 
-# python list
+# PYTHON LIST
 
 camping_list = [ "towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "iPhone", "homekeys", "wallet", "ehternet cable", "gaming laptop", "camera", "gameboy-color", "batteries", "water battle", "time capsule", "marshmallows", "beer", "wine", "snacks", "burguers" ]
 
+camp_site = [ "Crystal Lake", "404", "Time", "89.3ºC" ]
+
+print(type(camp_site))
