@@ -7,13 +7,13 @@ menu = "Black Coffe, Espresso, Latte, Capuccino"
 
 
 if name == "yes":
-    print("Are you evil?")
+    print("\n Are you evil?")
     evil = input("\n")
     if evil == "no":
-        print("You are not evil!")
-        print("Hello " + name + ", welcome to the coffee shop. \n")
+        print("\n You are not evil!")
+        print("\n Hello not evil" + name + ", welcome to the coffee shop. \n \n")
         print("We have the following drinks: " + menu)
-        order = input()
+        order = input("")
         price = 8
         quantity = input("How many do you wish for? \n")
         total = price * int(quantity)
