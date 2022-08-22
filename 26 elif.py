@@ -14,8 +14,15 @@ order = input(name + ", what would you like to order? Here is what we serve: " +
 if order == "Frappuccino":
     price = 13
 elif order == "Black Coffe":
-  price = 3
-  
+    price = 3
+elif order == "Espresso":
+    price = 5
+elif order == "Latte":
+    price = 9
+elif order == "Capuccino":
+    price = 10
+else:
+    price = 8
 
 
 
