@@ -14,3 +14,4 @@ camping_list = [ "towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsui
 print(type(camping_list))
 
 # Class <class 'list'> is here!!!!!!! LETS GO!!!
+
