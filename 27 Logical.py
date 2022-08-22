@@ -5,7 +5,7 @@ name = input("What is your name?\n")
 
 if name == "Ben" or name == "Patricia":
     evil_status = input("Are you evil?\n")
-    if evil_status == "Yes":
+    if evil_status == "yes":
         print("You're not welcome here " + name + " Get out of here!")
         exit()
     else:
