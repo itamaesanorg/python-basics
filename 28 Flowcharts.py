@@ -13,7 +13,7 @@ if name == "Ben" or name == "Patricia" or name == "Loki":
     else:
         print("How many good things you did today?" + name + "?")
         ans = input("")
-        if ans > "4":
+        if ans > "4" or ans == "4":
             print("Okay, come in!")
         else:
             print("You are not welcome here " + name + "! Get out of here!")
