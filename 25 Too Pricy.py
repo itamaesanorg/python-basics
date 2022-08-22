@@ -9,20 +9,28 @@ name = input("What is your name? \n")
 order = input(name + ", what would you like to order? Here is what we serve: " + menu + "\n")
 
 # Calculate the total price of the order, and store it in a variable called total.
+    
+    
 if order == "Frappuccino":
-    price_Frappucino = 13
-    quantity = input("How many do you wish for? \n")
-    print("Okay, I will prepeare your " + quantity + " " + order + " for you.")
-    print("Your total is $" + str(price_Frappucino * int(quantity)))
+    price = 13
+
+
+
+if order == "Black Coffe":
+    price = 3
+
+
+if order == "Espresso":
+    price = 4
+
+
+if order == "Latte":
+    price = 9
 else:
-    quantity = input("How many do you wish for? \n")
     price = 8
-    print("Okay, I will prepeare your " + quantity + " " + order + " for you.")
-    print("Your total is $" + str(price * int(quantity)))
-
-    
-    
-# Ask the customer how many of the order they want, and store it in a variable called quantity.
 
 
+if order == "Capuccino":
+    price = 10
 
+print(price)
