@@ -21,7 +21,7 @@ elif order == "Latte":
     print("Do you want extra cream? \n")
     price = 9
     if input() == "yes":
-        pricewithcream = price + 1
+        pricewithcream = price + 2
         quantity = input("How many do you wish for? \n")
         print("Your total is $" + str(pricewithcream * int(quantity)))
         exit()
