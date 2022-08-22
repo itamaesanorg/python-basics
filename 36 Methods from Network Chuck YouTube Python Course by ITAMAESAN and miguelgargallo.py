@@ -7,3 +7,5 @@ supplies = ["towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "
 camp_site = ["Crystal Lake", 404, 89.3, True]
 
 supplies.append("toilet paper")
+
+print(supplies)
