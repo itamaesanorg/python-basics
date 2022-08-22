@@ -1,0 +1,2 @@
+This Open Source Foundation Code is not related or endored by Network Chuck, we are just big fans, if you want to learn more, go to Network Chuck Academy,  we put this message here, because without Chuck youtube video series course, this could never exists, thanks bro, I love your job!
+[Like, See all the videos and subscrie to Chuck or Ben will come after you, when you do the course you will get this! Good Luck!!!!!!](https://www.youtube.com/watch?v=mRMmlo_Uqcs).
