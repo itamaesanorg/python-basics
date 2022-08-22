@@ -27,3 +27,4 @@ print(you)
 
 print(me + "\n" + you)
 
+print(camping_list)

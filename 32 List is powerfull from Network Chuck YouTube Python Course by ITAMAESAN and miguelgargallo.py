@@ -5,7 +5,7 @@
 # towel, sunblock, sunscreen, hat, sunglasses, swimsuit, iPhone, homekeys, wallet, ehternet cable, gaming laptop, camera, gameboy-color, batteries, water battle, time capsule, marshmallows, beer, wine, snacks, burguers.
 
 camping_stuff = "towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "iPhone", "homekeys", "wallet", "ehternet cable", "gaming laptop", "camera", "gameboy-color", "batteries", "water battle", "time capsule", "marshmallows", "beer", "wine", "snacks", "burguers"
-print(camping_stuff)
+print(camping_stuff) # Prints the list
 
 # python list
 
