@@ -11,3 +11,6 @@ print(camping_stuff)
 
 camping_list = [ "towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "iPhone", "homekeys", "wallet", "ehternet cable", "gaming laptop", "camera", "gameboy-color", "batteries", "water battle", "time capsule", "marshmallows", "beer", "wine", "snacks", "burguers" ]
 
+print(type(camping_list))
+
+# Class <class 'list'> is here!!!!!!! LETS GO!!!
