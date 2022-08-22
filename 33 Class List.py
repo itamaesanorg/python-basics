@@ -5,12 +5,19 @@
 # towel, sunblock, sunscreen, hat, sunglasses, swimsuit, iPhone, homekeys, wallet, ehternet cable, gaming laptop, camera, gameboy-color, batteries, water battle, time capsule, marshmallows, beer, wine, snacks, burguers.
 
 camping_stuff = "towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "iPhone", "homekeys", "wallet", "ehternet cable", "gaming laptop", "camera", "gameboy-color", "batteries", "water battle", "time capsule", "marshmallows", "beer", "wine", "snacks", "burguers"
+
 print(camping_stuff)
 
 # PYTHON LIST
 
-camping_list = [ "towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "iPhone", "homekeys", "wallet", "ehternet cable", "gaming laptop", "camera", "gameboy-color", "batteries", "water battle", "time capsule", "marshmallows", "beer", "wine", "snacks", "burguers" ]
+camping_list = ["towel", "sunblock", "sunscreen", "hat", "sunglasses", "swimsuit", "iPhone", "homekeys", "wallet", "ehternet cable", "gaming laptop", "camera", "gameboy-color", "batteries", "water battle", "time capsule", "marshmallows", "beer", "wine", "snacks", "burguers"]
 
-camp_site = [ "Crystal Lake", 404, 89.3, True ]
+camp_site = ["Crystal Lake", 404, 89.3, True]
 
-print(type(camp_site))
+# ME = "Coffee"
+# You = "Marshmallows"
+# Ordered
+
+me = camping_stuff[4]
+
+print(me)
