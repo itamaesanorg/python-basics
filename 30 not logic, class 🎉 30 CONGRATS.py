@@ -1,17 +1,5 @@
-# Instruction for this caotic amazing journey:
+print("You enter into a bar, the bartender asks you what is your name?")
 
-
-print("Hello, welcome to ITAMAESAN Coffee!!!!!!!!!")
 
 name = input("What is your name?\n")
 
-if name == "Ben" or name == "Patricia" or name == "Loki":
-    evil_status = input("Are you evil?\n")
-    good_deeds = int(input("How many good things you did today? " + name + "?\n"))
-    if evil_status == "yes" and good_deeds < 4:
-        print("You're not welcome here " + name + " Get out of here!")
-        exit()
-    else:
-        print("Okay, you were good today " + name + ", welcome to the coffee shop. \n\n\n")
-else:
-    print("Hello " + name + ", welcome to the coffee shop. \n\n\n")
