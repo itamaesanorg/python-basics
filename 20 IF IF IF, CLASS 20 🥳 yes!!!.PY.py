@@ -1,6 +1,8 @@
 # Lets play with if if if if else!!!
 
 print("\n The Bar was dark and a voice asked from the back of the room: \n \n Ben, is that you?")
+# I do this to know if you read or just copy paste, if you read this, to run the code, remove the emoji from the file name.
+
 
 name = input("\n")
 menu = "Black Coffe, Espresso, Latte, Capuccino"
