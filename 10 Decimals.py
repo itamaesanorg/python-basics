@@ -1,4 +1,4 @@
-# Lets do some type functions in python too.
+# Lets do some type functions but now with decimals too.
 
 name = "Mike"
 
