@@ -7,9 +7,11 @@ name = input("What is your name? \n")
 menu = "Black Coffe, Espresso, Latte, Capuccino"
 
 if name == "Ben":
+    print("\n I don't like you.  - Said the coffee barteneder\n\n" + name + " quits the coffee shop.")
+    exit()
+else:
     print("Hello " + name + ", welcome to the coffee shop. \n")
     print("We have the following drinks: " + menu)
-    print(name + "what would you like to order? \n" + menu)
 
     order = input()
 
@@ -24,7 +26,4 @@ if name == "Ben":
     print("Thank your total is $" + str(total))
 
     print("Sounds great " + name + ", we'll have your " + quantity + " " + order + " right out for you.")
-
-else:
-    print("I don't like you, " + name + " quits the coffee shop.")
     
