@@ -1,3 +1,5 @@
+# Lets go with the addition function first.
+
 name = "ITAMAEASAN"
 
 print(name)
