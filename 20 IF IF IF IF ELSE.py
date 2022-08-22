@@ -9,9 +9,7 @@ menu = "Black Coffe, Espresso, Latte, Capuccino"
 if name == "yes":
     print("Are you evil?")
     evil = input("\n")
-    if evil == "yes":
-        print("Get out of here!")
-    else:
+    if evil == "no":
         print("You are not evil!")
         print("Hello " + name + ", welcome to the coffee shop. \n")
         print("We have the following drinks: " + menu)
@@ -22,3 +20,5 @@ if name == "yes":
         print(total)
         print("Thank your total is $" + str(total))
         print("Sounds great " + name + ", we'll have your " + quantity + " " + order + " right out for you.")
+    else:
+        print("Get out of here!")
