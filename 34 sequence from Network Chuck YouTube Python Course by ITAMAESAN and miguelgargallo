@@ -24,3 +24,6 @@ you = camping_stuff[-1]
 
 print(me)
 print(you)
+
+print(me + "\n" + you)
+
