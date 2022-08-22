@@ -12,6 +12,6 @@ if name == "Ben" or name == "Patricia" or name == "Loki":
         print("You're not welcome here " + name + " Get out of here!")
         exit()
     else:
-        print("Okay, come in!\n")
+        print("Okay, you were good today " + name + ", welcome to the coffee shop. \n\n\n")
 else:
     print("Hello " + name + ", welcome to the coffee shop. \n\n\n")
