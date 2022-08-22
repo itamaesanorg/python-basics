@@ -18,3 +18,9 @@ camp_site = ["Crystal Lake", 404, 89.3, True]
 # You = "Marshmallows"
 # Ordered
 
+me = camping_stuff[4]
+
+you = camping_stuff[-1]
+
+print(me)
+print(you)
