@@ -2,20 +2,15 @@
 
 print("Hello, and welcome to the ITAMEASAN Cofe shop!!!!!!")
 
-# print("Waht is your name")
-
 name = input("Waht is your name? \n")
 
 print("Hello " + name+"," + " Thank you so much for coming to our shop. \n\n")
 
-print("""We have the following drinks:
-Late $2.99
-Hot $1.99
-Cold $3.99\n\n""")
+menu = "Black Coffe, Espresso, Latte, Capuccino"
 
-coffee = input("What do you wish for this sunny day? \n\n")
+print(name + "what would you like to order? \n" + menu)
 
-print("Okay please, wait a second, I will take your " + coffee + " coffe inmediatly.\n")
+order = input()
 
 price = 8
 
@@ -27,4 +22,4 @@ print(total)
 
 print("Thank your total is $" + str(total) + ".")
 
-print("Sounds great " + name + ", we'll have that " )
+print("Sounds great " + name + ", we'll have that " + order + " right out for you.")
