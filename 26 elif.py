@@ -18,15 +18,27 @@ elif order == "Black Coffe":
 elif order == "Espresso":
     price = 5
 elif order == "Latte":
+    print("Do you want extra cream? \n")
     price = 9
+    if input() == "yes":
+        pricewithcream = price + 1
+        quantity = input("How many do you wish for? \n")
+        print("Your total is $" + str(pricewithcream * int(quantity)))
+        exit()
+    else:
+        quantity = input("How many do you wish for? \n")
+        print("Your total is $" + str(price * int(quantity)))
+        exit()
+
 elif order == "Capuccino":
     price = 10
 else:
     print("Sorry, we don't serve that here.")
+    price = 0
 
 
 
 
 
 
-print(price)
+print("count that every " + order + "costs" + price + ", thanks for comming today, and see you soon" + name + "!")
